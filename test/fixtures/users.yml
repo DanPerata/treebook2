@@ -6,3 +6,10 @@ jason:
   password: "password"
   password_confirmation: "password"
 
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
+  password: "Abc"
+  password_confirmation: "Abc"
