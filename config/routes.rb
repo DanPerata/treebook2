@@ -1,4 +1,6 @@
 Treebook2::Application.routes.draw do
+  get "profile/show"
+
   devise_for :users
 
  devise_scope :user do
